@@ -1,7 +1,3 @@
-# First
+# A Repository
 
-My first repository
-
-# change
-
-Changes done!
+Sorry there's nothing to see here.
